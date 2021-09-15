@@ -11,9 +11,9 @@ Time series forecasting currently has a wide range of applications in many field
 ### 
 (2) XH-waterworks. The dataset is the water supply of a water plant in Huangshan Scenic Area. This dataset contains daily water supply from January 1, 2017 to December 31, 2019.
 ### 
-(3) Milan-air. This dataset is the Milan air PM2.5 concentration data. This dataset contains the average of hourly PM2.5 concentrations from July 24, 2020 to September 20, 2020.
+(3) Milan-air. This dataset is the Milan air PM2.5 concentration data. This dataset contains the average of hourly PM2.5 concentrations from July 24, 2020 to September 20, 2020. milan-air is publicly available datasets obtained from Kaggle.https://www.kaggle.com/wiseair/air-quality-in-milan-summer-2020.
 ### 
-(4) Delhi-meantemp. The dataset is weather temperature data for the city of Delhi, India. This dataset contains the average of daily temperatures from January 1, 2013 to January 1, 2017.
+(4) Delhi-meantemp. The dataset is weather temperature data for the city of Delhi, India. This dataset contains the average of daily temperatures from January 1, 2013 to January 1, 2017. delhi-meantemp is publicly available datasets obtained from Kaggle. https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data.
 
 
 
