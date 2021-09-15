@@ -6,6 +6,8 @@ Time series forecasting currently has a wide range of applications in many field
 
 ## Data
 
+TH-reservoir and XH-waterworks are real water supply datasets obtained from Huangshan Scenic Area, China. milan-air and delhi-meantemp are publicly available datasets obtained from Kaggle.
+
 ### 
 (1) TH-reservoir. The dataset is the water level value of a reservoir in Huangshan Scenic Area. This dataset contains daily water level values from January 1, 2017 to December 31, 2019.
 ### 
